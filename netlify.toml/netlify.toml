@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "http://daspropertiesinvest.co.uk/*"
+  to = "https://daspropertiesinvest.co.uk/:splat"
+  status = 301
+  force = true
