@@ -1476,11 +1476,11 @@ background-size: cover;
 /* ==================================== */
 
 .investment-hero{
-  background-image: url(../assets/Thailand/Bang-Tao/Bang\ Tao1.png);
+  background-image: url(../assets/Thailand/Jomtien/Jomtien4.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-   height: 50vh;
+   height: 80vh;
   display: flex;
   align-items: center;
   justify-content: center;
