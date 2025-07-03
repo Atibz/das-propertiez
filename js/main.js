@@ -321,10 +321,10 @@ window.addEventListener('resize', () => {
   moveSlide(0); // realign
 });
 
-// ✅ Autoplay every 4 seconds
+// ✅ Autoplay every 8 seconds
 setInterval(() => {
   moveSlide(1);
-}, 4000);
+}, 8000);
 
 
 
