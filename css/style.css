@@ -1,5 +1,3 @@
-
-
 :root {
 font-family:'Roboto', Arial, Helvetica, sans-serif;
   scroll-behavior: smooth;
@@ -331,7 +329,7 @@ padding: 0 2rem;
     z-index: 1.5;
 }
 .hero-button:hover{
-   font-size: 1.1em; 
+   font-size: 1.1rem; 
    transition: 0.2s ease-in-out;
    background-color: #4e4a74;
 }
@@ -1003,7 +1001,7 @@ padding-bottom: 0;
     /* footer start */
     .footer {
       position: relative;
-  background-image: url(../assets/london/aspen/aspen1.png);
+  background-image: url(../assets/london/aspen/aspen1.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1416,7 +1414,7 @@ font-weight: 800;
 /* ============================== */
 .p-t-hero{
   background-image: url('../assets/london/aspen/aspen1.webp');
-background-size: cover;
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   height: 50vh;
@@ -1426,7 +1424,6 @@ background-size: cover;
   color: white;
   text-align: center;
   position: relative;
-
 }
 .p-t-hero::before {
   content: "";
@@ -1538,7 +1535,7 @@ padding-bottom: 1.5rem;
   color: #fff;
   padding: 2rem;
   height: 80vh;
-  background-image: url(../assets/Thailand/Jomtien/Jomtien5.png);
+  background-image: url(../assets/Thailand/Jomtien/Jomtien5.webp);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1656,52 +1653,52 @@ padding-bottom: 1.5rem;
 }
 
 body.woolwich .properties-hero {
-    background-image: url(../assets/london/woolwich/Woolwich2.png);
+    background-image: url(../assets/london/woolwich/Woolwich2.webp);
 }
 body.fairfield .properties-hero {
-    background-image: url(../assets/london/fairfield/fairfield1.png);
+    background-image: url(../assets/london/fairfield/fairfield1.webp);
 }
 body.crown .properties-hero {
-    background-image: url(../assets/london/crown1/crown1.png);
+    background-image: url(../assets/london/crown1/crown1.webp);
 }
 body.goldfinch .properties-hero {
-    background-image: url(../assets/london/goldfinch/goldfinch1.png);
+    background-image: url(../assets/london/goldfinch/goldfinch1.webp);
 }
 body.bookbinder .properties-hero {
-    background-image: url(../assets/london/bookbinder/bookbinder1.png);
+    background-image: url(../assets/london/bookbinder/bookbinder1.webp);
 }
 body.kingfisher .properties-hero {
-    background-image: url(../assets/manchester/Kingfisher/kingfisher1.png);
+    background-image: url(../assets/manchester/Kingfisher/kingfisher1.webp);
 }
 body.new-manchester .properties-hero {
-    background-image: url(../assets/manchester/New-Manchester/New\ Manchester1.png);
+    background-image: url(../assets/manchester/New-Manchester/New\ Manchester1.webp);
 }
 body.crown-view .properties-hero {
-    background-image: url(../assets/manchester/Victoria/victoria1.png);
+    background-image: url(../assets/manchester/Victoria/victoria1.webp);
 }
 body.sloane .properties-hero {
-    background-image: url(../assets/birmingham/sloane/sloane1\ .png);
+    background-image: url(../assets/birmingham/sloane/sloane1\ .webp);
 }
 body.scholars .properties-hero {
-    background-image: url(../assets/birmingham/scholars/scholars1.png);
+    background-image: url(../assets/birmingham/scholars/scholars1.webp);
 }
 body.triangle .properties-hero {
-    background-image: url(../assets/south/triangle/Triangle1.png);
+    background-image: url(../assets/south/triangle/Triangle1.webp);
 }
 body.goldstone .properties-hero {
-    background-image: url(../assets/south/goldstone/goldstone1.png);
+    background-image: url(../assets/south/goldstone/goldstone1.webp);
 }
 body.bang-tao .properties-hero {
-    background-image: url(../assets/Thailand/Bang-Tao/Bang\ Tao1.png);
+    background-image: url(../assets/Thailand/Bang-Tao/Bang\ Tao1.webp);
 }
 body.jomtien .properties-hero {
-    background-image: url(../assets/Thailand/Jomtien/Jomtien9.png);
+    background-image: url(../assets/Thailand/Jomtien/Jomtien9.webp);
 }
 body#how-it-works .properties-hero {
-    background-image: url(../assets/manchester/Kingfisher/kingfisher4.png);
+    background-image: url(../assets/manchester/Kingfisher/kingfisher4.webp);
 }
 body.investment .properties-hero {
-    background-image: url(assets/Thailand/Jomtien/Jomtien6.png);
+    background-image: url(assets/Thailand/Jomtien/Jomtien6.webp);
 }
 
 
