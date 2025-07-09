@@ -1,0 +1,17 @@
+[[redirects]]
+  from = "http://daspropertiesinvest.co.uk/*"
+  to = "https://www.daspropertiesinvest.co.uk/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.daspropertiesinvest.co.uk/*"
+  to = "https://www.daspropertiesinvest.co.uk/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://daspropertiesinvest.co.uk/*"
+  to = "https://www.daspropertiesinvest.co.uk/:splat"
+  status = 301
+  force = true
