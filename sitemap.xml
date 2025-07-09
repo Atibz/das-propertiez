@@ -19,9 +19,11 @@
   <url>
     <loc>https://www.daspropertiesinvest.co.uk/property-sourcing-and-purchasing.html</loc>
   </url>
-  <loc>https://www.daspropertiesinvest.co.uk/rental-management.html</loc>
+  <url>
+    <loc>https://www.daspropertiesinvest.co.uk/rental-management.html</loc>
   </url>
-<loc>https://www.daspropertiesinvest.co.uk/sales&amp;exit-strategy.html</loc>
+  <url>
+    <loc>https://www.daspropertiesinvest.co.uk/sales&amp;exit-strategy.html</loc>
   </url>
   <url>
     <loc>https://www.daspropertiesinvest.co.uk/consultancy.html</loc>
@@ -29,10 +31,10 @@
   <url>
     <loc>https://www.daspropertiesinvest.co.uk/how-it-works.html</loc>
   </url>
-    <url>
+  <url>
     <loc>https://www.daspropertiesinvest.co.uk/privacy.html</loc>
   </url>
-    <url>
+  <url>
     <loc>https://www.daspropertiesinvest.co.uk/terms.html</loc>
   </url>
 </urlset>
