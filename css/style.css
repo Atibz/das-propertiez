@@ -1858,6 +1858,9 @@ body#how-it-works .properties-hero {
 body.investment .properties-hero {
   background-image: url(assets/Thailand/Jomtien/Jomtien6.webp);
 }
+body.blog .properties-hero {
+  background-image: url(../assets/manchester/Victoria/victoria4.webp);
+}
 
 .global-header {
   margin-top: 0.5rem;
@@ -2583,7 +2586,7 @@ footer nav ul li a {
   }
 
   /* Base hidden state */
-  .services-drop-down {
+  .items-drop-down {
     max-height: 0;
     overflow: hidden;
     opacity: 0;
@@ -2592,7 +2595,6 @@ footer nav ul li a {
     position: absolute;
     background: #fff;
     color: #343463;
-    /* min-width: 250px; */
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
     border-radius: 8px;
     padding: 1rem;
@@ -2602,18 +2604,15 @@ footer nav ul li a {
   }
 
   /* Style dropdown links */
-  .services-drop-down a {
+  .items-drop-down a {
     display: block;
     padding: 0;
     text-decoration: none;
     color: #343463;
-    font-size: 2px;
-    /* border-radius: 5px; */
     transition: background 0.3s ease;
   }
-  .services-drop-down a:hover {
+  .items-drop-down a:hover {
     color: #343463;
-    /* background-color: #f3f3f3; */
   }
 
   /* Only on desktop: show on hover */
@@ -2622,14 +2621,14 @@ footer nav ul li a {
       position: relative;
     }
 
-    .drop-arrows:hover .services-drop-down {
+    .drop-arrows:hover .items-drop-down {
       display: flex;
-      flex-direction: row;
-      gap: 1rem;
+      flex-direction: column;
       position: absolute;
       top: 100%;
-      left: 0;
-      width: 40rem;
+      left: -3rem;
+      width: auto;
+      min-width: 300px;
       background: #eeeef2;
       border-radius: 6px;
       box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
