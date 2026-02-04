@@ -1,0 +1,25 @@
+<svg width="660" height="696" viewBox="0 0 660 696" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_17_5235)">
+<g clip-path="url(#clip1_17_5235)">
+<path d="M447.667 327.238V107.046L-63.6665 417.599L-63.6666 636.773L447.667 327.238Z" fill="#F2A85D"/>
+<path d="M447.667 765.918V545.727L-63.6665 856.279L-63.6666 1075.45L447.667 765.918Z" fill="#F2A85D"/>
+<path d="M959 236.191V15.9995L447.667 326.552L447.667 545.726L959 236.191Z" fill="#F2A85D"/>
+<path d="M959 675.79V455.599L447.667 766.151L447.667 985.325L959 675.79Z" fill="#F2A85D"/>
+</g>
+<g clip-path="url(#clip2_17_5235)">
+<path d="M665.5 309.322V77.7939L-24.9998 494.542L-25 725L665.5 309.322Z" stroke="#F2A85D" stroke-width="1.5"/>
+<path d="M664 832.985V569.294L-54.6497 1004.25L-54.6499 1266.72L664 832.985Z" stroke="#F2A85D" stroke-width="1.5"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_17_5235">
+<rect width="660" height="696" fill="white"/>
+</clipPath>
+<clipPath id="clip1_17_5235">
+<rect width="1534" height="1589.18" fill="white" transform="translate(-575 16)"/>
+</clipPath>
+<clipPath id="clip2_17_5235">
+<rect width="1327" height="1901" fill="white" transform="translate(-667)"/>
+</clipPath>
+</defs>
+</svg>
